@@ -1,0 +1,7 @@
+[package]
+name = "shuffle-simple-deck"
+version = "0.1.0"
+authors = ["Kevin Choubacha <chewbacha@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
